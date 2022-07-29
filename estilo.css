@@ -8,3 +8,24 @@ h1 {
 h2 {
   color: white;
 }
+
+.caixa1 {
+  position: absolute;
+  background: blue;
+  color: #FFFFFF;
+  width: 200px;
+  height: 200px;
+  left: 200px;
+  right: 0;
+  top: 0;
+}
+.caixa2 {
+  position: absolute;
+  background: red;
+  color: #FFFFFF;
+  width: 100px;
+  height: 100px;
+  left: 100px;
+  right: 0;
+  top: 0;
+}
