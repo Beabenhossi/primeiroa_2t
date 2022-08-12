@@ -5,7 +5,7 @@ h1 {
   text-align: center;
 }
 .caixa1 {
-  background: blue;
+  background: yellow;
   position: absolute;
   color: #FFFFFF;
   width: 200px;
@@ -49,4 +49,16 @@ float: left;
  li a:hover{
    background:yellow;
    color: black;
+ }
+ #Sol {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 20%;
+   height: 130px;
+   background:yellowgreen ;
+   margin: 20px;
+   border-color: red;
+   border-width: 20px;
+   border-style: solid;
  }
